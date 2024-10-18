@@ -55,21 +55,44 @@ Make sure you have the following installed:
 
 ## Screenshots
 1 Window : Customer Details
+
+
+
 <img width="223" alt="image" src="https://github.com/user-attachments/assets/ebb0aae7-993a-43a2-a303-368a84f50790">
 
 2 Window : Burger Menu
+
+
+
+
 <img width="425" alt="image" src="https://github.com/user-attachments/assets/b5ac7195-8643-4736-a686-3a3921803ae0">
 
 3 Window : Fries Menu
+
+
+
+
 <img width="430" alt="image" src="https://github.com/user-attachments/assets/e297e1e6-5f1e-4ca2-ab09-9c590a38be32">
 
 4 Window : Drinks Menu
+
+
+
+
 <img width="430" alt="image" src="https://github.com/user-attachments/assets/09aa6734-7779-4d5a-9d58-1c9a5892155c">
 
-5 Window : Balance Calculator 
+5 Window : Balance Calculator
+
+
+
+
 <img width="251" alt="image" src="https://github.com/user-attachments/assets/2afcee91-bf1b-42d5-b761-eeda2a23e75c">
 
 6 Window : Generated Bill
+
+
+
+
 <img width="380" alt="image" src="https://github.com/user-attachments/assets/a168b988-4466-4abd-94cd-49f5f5a91517">
 
 
